@@ -4,7 +4,15 @@ The application was designed to register clients in a salon.<br>
 
 It has the ability to enter the following details for a client:<br>
 
-<strong><em>New appointment<em> Tab</strong>
+<h2><em>File</em> Tab</h2>
+
+<strong>Save -></strong> Option to save the current appointment/s to a XML file.<br>
+
+<strong>Load -></strong> Option to load the the data from the saved XML file.<br>
+
+<strong>Clear -></strong> Option to clear the data from all the entered fields (not from the XML file).<br>
+
+<h2><em>New appointment</em> Tab</h2>
  
 <strong>First name -></strong> A <strong><em>textField</em></strong> to store the first name of the client.<br>
 
