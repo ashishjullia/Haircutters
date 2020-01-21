@@ -28,7 +28,7 @@ It has the ability to enter the following details for a client:<br>
 
 <strong>Address -></strong> A simple <strong><em>textField</em></strong> to store the client's address.<br>
 
-<strong>Meta Information</strong><br>
+<h2>Meta Information</h2><br>
 
 <strong>Future -></strong> Only displays the future appointments.<br>
 
