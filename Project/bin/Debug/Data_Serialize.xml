@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Clients>
+    <Client>
+      <FirstName>Artem</FirstName>
+      <LastName>Malchenko</LastName>
+      <Notes>smth</Notes>
+      <Appointments>
+        <Appointment>
+          <DateTime>2019-12-04T00:00:00</DateTime>
+          <Address>Salon`s address</Address>
+          <Service>
+            <ServiceName>dyeing hair</ServiceName>
+          </Service>
+        </Appointment>
+      </Appointments>
+      <Gender>Male</Gender>
+    </Client>
+    <Client>
+      <FirstName>Ihor</FirstName>
+      <LastName>Mirosch</LastName>
+      <Notes>test2</Notes>
+      <Appointments>
+        <Appointment>
+          <DateTime>2019-12-18T00:00:00</DateTime>
+          <Address>Salon`s address</Address>
+          <Service>
+            <ServiceName>dyeing hair</ServiceName>
+          </Service>
+        </Appointment>
+      </Appointments>
+      <Gender>Male</Gender>
+    </Client>
+    <Client>
+      <FirstName>Oleg</FirstName>
+      <LastName>Kosenko</LastName>
+      <Notes />
+      <Appointments>
+        <Appointment>
+          <DateTime>2019-12-28T11:48:38</DateTime>
+          <Address>123 King Street North</Address>
+          <Service>
+            <ServiceName>haircut</ServiceName>
+          </Service>
+        </Appointment>
+      </Appointments>
+      <Gender>Male</Gender>
+    </Client>
+    <Client>
+      <FirstName>Dalibor</FirstName>
+      <LastName>Dvorski</LastName>
+      <Notes />
+      <Appointments>
+        <Appointment>
+          <DateTime>2019-12-03T00:00:00</DateTime>
+          <Address>Waterloo</Address>
+          <Service>
+            <ServiceName>hair makeup</ServiceName>
+          </Service>
+        </Appointment>
+      </Appointments>
+      <Gender>Male</Gender>
+    </Client>
+    <Client>
+      <FirstName>Dhiraj</FirstName>
+      <LastName>Ramnani</LastName>
+      <Notes />
+      <Appointments>
+        <Appointment>
+          <DateTime>2019-12-06T20:31:07</DateTime>
+          <Address>Salon`s address</Address>
+          <Service>
+            <ServiceName>haircut</ServiceName>
+          </Service>
+        </Appointment>
+      </Appointments>
+      <Gender>Male</Gender>
+    </Client>
+    <Client>
+      <FirstName>Anna</FirstName>
+      <LastName>Dmitrieva</LastName>
+      <Notes>123</Notes>
+      <Appointments>
+        <Appointment>
+          <DateTime>2019-12-20T00:00:00</DateTime>
+          <Address>Salon`s address</Address>
+          <Service>
+            <ServiceName>hair makeup</ServiceName>
+          </Service>
+        </Appointment>
+      </Appointments>
+      <Gender>Female</Gender>
+    </Client>
+  </Clients>
+  <Services>
+    <Service>
+      <ServiceName>haircut</ServiceName>
+    </Service>
+    <Service>
+      <ServiceName>hair makeup</ServiceName>
+    </Service>
+    <Service>
+      <ServiceName>dyeing hair</ServiceName>
+    </Service>
+  </Services>
+</Data>
