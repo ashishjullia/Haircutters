@@ -32,4 +32,4 @@ It has the ability to enter the following details for a client:<br>
 
 <strong>Future -></strong> Only displays the future appointments.<br>
 
-<strong>Past -></strong> Only displays the past appointmenst.<br>
+<strong>Past -></strong> Only displays the past appointments.<br>
